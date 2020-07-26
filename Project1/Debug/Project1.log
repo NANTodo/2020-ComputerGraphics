@@ -1,0 +1,4 @@
+﻿  room.c
+c:\users\lg\desktop\제출용\4-1 컴퓨터그래픽스\과제5\project1\project1\room.c(2341): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+c:\users\lg\desktop\제출용\4-1 컴퓨터그래픽스\과제5\project1\project1\room.c(2902): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Project1.vcxproj -> C:\Users\LG\Desktop\제출용\4-1 컴퓨터그래픽스\과제5\Project1\Debug\Project1.exe
